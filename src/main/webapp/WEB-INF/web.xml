@@ -4,11 +4,11 @@
         <description/>
         <display-name>Controller</display-name>
         <servlet-name>Controller</servlet-name>
-        <servlet-class>com.javamaster.controller.HomeServlet</servlet-class>
+        <servlet-class>service.example2.servlets.HomeServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>WorkShopExample2</servlet-name>
-        <servlet-class>com.javamaster.controller.WorkShopExample2</servlet-class>
+        <servlet-class>service.example2.servlets.WorkShopExample2</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Controller</servlet-name>
