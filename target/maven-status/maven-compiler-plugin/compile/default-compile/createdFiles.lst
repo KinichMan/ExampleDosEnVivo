@@ -1,0 +1,7 @@
+service\example2\servlets\WorkShopExample2.class
+service\example2\util\Constants_CPaaSApi.class
+service\example2\util\InboundXML.class
+service\example2\http\CPaaSAPI.class
+service\example2\actions\WorkShopExample2Actions.class
+service\example2\util\Constants_CPaaSWorkShopApi.class
+service\example2\http\CPaaSWorkShopApi.class
